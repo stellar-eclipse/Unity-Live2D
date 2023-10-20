@@ -1,0 +1,16 @@
+{
+    "name": "Live2D.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cff417376fa8a5b41b5346ffc24a0c1b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{  
+  "name": "live2d",
+  "displayName": "Live2D",
+  "description": "",
+  "version": "4.0.0-r.7",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "",
+      "path": "Samples~/Samples"
+    }
+  ]
+}
